@@ -1,32 +1,27 @@
 <!-- ============================================= -->
-<!-- 1. ANIMATED HEADER SECTION -->
+<!-- HEADER -->
 <!-- ============================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0118,30:4c1d95,70:6d28d9,100:7c3aed&height=220&section=header&Ricardo%20Rodriguez&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Architect&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0118,30:4c1d95,70:6d28d9,100:7c3aed&height=220&section=header&text=Ricardo%20Rodriguez&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/ricardo-rodriguezdesk">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+enterprise-grade+software+at+scale;Engineering+intelligent+AI%2FML+systems;Designing+resilient+full+stack+architectures;Product-minded.+Performance-obsessed." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Desarrollador+de+software+en+formaci%C3%B3n+y+en+activo;Construyo+sistemas+ERP+empresariales+reales;Java+%C2%B7+C%23+%C2%B7+Python+%C2%B7+full+stack;Aprendiendo+AI%2FML+y+construyendo+cosas+%C3%BAtiles." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Academic Badges -->
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=for-the-badge&labelColor=1e1b4b" alt="degree" />
-<img src="https://img.shields.io/badge/CGPA-9.2%2F10-6D28D9?style=for-the-badge&labelColor=1e1b4b" alt="cgpa" />
-<!-- Location Badge -->
-<img src="https://img.shields.io/badge/Celaya%2C%20Mexico-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=A78BFA&labelColor=1e1b4b" alt="location" />
+<img src="https://img.shields.io/badge/Estudiante-Ing.%20en%20Sistemas%20Computacionales-7C3AED?style=for-the-badge&labelColor=1e1b4b" alt="degree" />
+<img src="https://img.shields.io/badge/Based%20in-Celaya%2C%20M%C3%A9xico-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=A78BFA&labelColor=1e1b4b" alt="location" />
+<!-- EDITA tu ciudad si no es Celaya -->
 
 <br/><br/>
 
-<!-- Action Buttons -->
-<a href="https://your-portafolio.com">
-  <img src="https://img.shields.io/badge/Portafolio-0a0118?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="portafolio" />
-</a>
-<a href="https://linkedin.com/in/ricardo-rodriguezdesk">
+<a href="https://linkedin.com/in/TU_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0a0118?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="linkedin" />
 </a>
+<!-- EDITA con tu usuario real de LinkedIn -->
 <a href="mailto:ricardorodriguez.builds@gmail.com">
   <img src="https://img.shields.io/badge/Email-0a0118?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="email" />
 </a>
@@ -36,255 +31,144 @@
 
 <br/><br/>
 
-<!-- Profile Metrics -->
 <img src="https://komarev.com/ghpvc/?username=ricardo-rodriguezdesk&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="views" />
 <img src="https://img.shields.io/github/followers/ricardo-rodriguezdesk?style=for-the-badge&color=6D28D9&labelColor=1e1b4b&label=FOLLOWERS" alt="followers" />
-<img src="https://img.shields.io/github/stars/ricardo-rodriguezdesk?style=for-the-badge&color=4C1D95&labelColor=1e1b4b&label=TOTAL+STARS" alt="stars" />
 
 </div>
 
 ---
 
 <!-- ============================================= -->
-<!-- 2. ABOUT SECTION -->
+<!-- ABOUT -->
 <!-- ============================================= -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> About Me
+## Sobre mí
 
-I am a **Senior Software Engineer** and **AI/ML Engineer** who designs and ships production systems that hold up under real-world scale. My work sits at the intersection of rigorous software engineering and applied machine learning — building platforms that are fast, fault-tolerant, observable, and maintainable.
+Soy estudiante de Ingeniería en Sistemas Computacionales y desarrollador de software en activo. Me gusta construir aplicaciones que resuelvan problemas reales, no solo ejercicios de clase: desarrollé y mantengo un sistema ERP en producción para una empresa real, y participo en proyectos de datos y machine learning.
 
-- **Software Engineering** — I treat code as a long-lived asset: clean architecture, strong typing, exhaustive testing, and CI/CD discipline. I optimize for systems that survive their authors.
-- **AI / ML Expertise** — I build the full lifecycle: data pipelines, model training, evaluation, inference serving, and LLM-powered application layers wired for cost and latency.
-- **Full Stack Development** — Fluent across the stack, from typed React frontends to distributed backends, message queues, and cloud-native infrastructure.
-- **Product Engineering Mindset** — I start from user outcomes and business impact, then reason backward to the architecture. Shipping value beats shipping code.
+- **Desarrollo de software** — Construyo aplicaciones de escritorio y backends, con foco en código mantenible y funcionalidad que de verdad se use.
+- **Full Stack** — Trabajo desde la interfaz hasta la base de datos: Java/JavaFX, C#/WPF, Python y Node.js.
+- **AI / ML** — En aprendizaje activo; participé como ML Engineer en un proyecto de predicción de precios con datos públicos.
+- **Mentalidad de producto** — Me interesa entender el problema del usuario antes de escribir código.
 
-> **Open To:** Senior / Staff Software Engineering roles · AI/ML Engineering · Platform & Infrastructure · High-impact open source collaboration
+> **Abierto a:** prácticas, oportunidades junior de desarrollo de software, y colaboración en proyectos.
 
 ---
 
 <!-- ============================================= -->
-<!-- 3. TECH STACK SECTION -->
+<!-- TECH STACK -->
 <!-- ============================================= -->
 
-## Tech Stack
+## Tecnologías
 
 <div align="center">
 
-**Languages**
+**Lenguajes**
 
-![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,go,java,rust,cpp,bash&theme=dark)
+![Skills](https://skillicons.dev/icons?i=java,cs,python,javascript,html,css&theme=dark)
 
-**Frontend**
+**Frameworks y librerías**
 
-![Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,html,css,threejs&theme=dark)
+![Skills](https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark)
 
-**Backend & Databases**
+**Bases de datos y herramientas**
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql,postgres,mongodb,redis,prisma&theme=dark)
-
-**Cloud, DevOps & Tooling**
-
-![Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,grafana,nginx,git,linux&theme=dark)
-
-**AI / ML**
-
-![Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)
+![Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,aws,idea,visualstudio&theme=dark)
 
 </div>
 
----
-
-<!-- ============================================= -->
-<!-- 4. AI / ML EXPERTISE SECTION -->
-<!-- ============================================= -->
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Deep Learning** | `Advanced` | CNNs, RNNs/LSTMs, Transformers, attention mechanisms, custom training loops in PyTorch |
-| **Large Language Models** | `Advanced` | RAG pipelines, fine-tuning (LoRA/QLoRA), prompt engineering, agentic workflows, eval harnesses |
-| **Computer Vision** | `Proficient` | Object detection, segmentation, OCR, image classification, real-time inference |
-| **NLP** | `Advanced` | Embeddings, semantic search, NER, summarization, sentiment & intent classification |
-| **MLOps** | `Proficient` | Model serving, feature stores, experiment tracking, CI/CD for ML, drift monitoring |
-| **Data Engineering** | `Proficient` | ETL/ELT pipelines, vector databases, batch & streaming, feature pipelines |
+<!-- EDITA: deja solo lo que de verdad manejas. Quita lo que no. -->
 
 ---
 
 <!-- ============================================= -->
-<!-- 5. FEATURED PROJECTS SECTION -->
+<!-- PROYECTOS -->
 <!-- ============================================= -->
 
-## Featured Projects
+## Proyectos destacados
 
 <details>
-<summary><b>🟣 NeuralServe — Distributed LLM Inference Platform</b></summary>
+<summary><b>ZAER Company ERP — Sistema de Gestion Empresarial (C# / .NET)</b></summary>
 
 <br/>
 
-A high-throughput inference platform serving fine-tuned LLMs with dynamic batching, token streaming, and per-tenant rate limiting across an autoscaling GPU fleet.
+Sistema ERP de escritorio en produccion para una empresa real. Version 2.0 del sistema, reconstruida desde cero en C# / WPF con una arquitectura mas robusta y modular que la primera version en Java.
 
-| Attribute | Detail |
+| Atributo | Detalle |
 | :--- | :--- |
-| **Stack** | Python · FastAPI · PyTorch · Ray · Redis · Kubernetes · AWS |
-| **Scale** | 12k+ requests/min · 40+ GPU nodes · multi-region |
-| **Performance** | p99 latency 180ms · 3.4× throughput via continuous batching |
-| **Security** | OAuth2 · per-tenant isolation · encrypted model artifacts |
-| **Impact** | Cut inference cost 58% · adopted across 6 internal teams |
-| **Repository** | [github.com/ricardo-rodriguezdesk/neuralserve](https://github.com/ricardo-rodriguezdesk/neuralserve) |
+| **Mi rol** | Desarrollador unico (diseno, arquitectura e implementacion) |
+| **Stack** | C# · WPF · .NET · XAML · SQL · Exportacion a PDF |
+| **Modulos** | Control de acceso · Dashboard · Almacen · Logistica · Produccion · Solicitudes de resurtido |
+| **Caracteristicas** | Login con recuperacion de contrasena por email · reportes PDF · busqueda avanzada · exportacion de formatos |
+| **Estado** | En uso en produccion (empresa real) |
+| **Repositorio** | [github.com/ricardo-rodriguezdesk/ZAER-COMPANY](https://github.com/ricardo-rodriguezdesk/ZAER-COMPANY) |
 
-Designed the request scheduler and KV-cache-aware batching layer that turned a naive one-request-per-GPU service into a saturating, cost-efficient platform. Built observability from day one with per-token latency tracing.
+Disene y desarrolle por completo la segunda generacion del ERP, migrando de Java a C#/WPF para una interfaz mas fluida y mantenible. Implemente el control de acceso, los modulos operativos y la exportacion de reportes a PDF.
 
 </details>
 
 <details>
-<summary><b>🟣 Atlas — Event-Driven Commerce Backend</b></summary>
+<summary><b>Proyecto ZAER — ERP v1.0 (Java / JavaFX)</b></summary>
 
 <br/>
 
-A fault-tolerant, event-sourced commerce backend handling orders, inventory, and payments with exactly-once processing guarantees.
+Primera version del sistema ERP empresarial, construida en Java con JavaFX. Maneja el flujo de pedidos, produccion, inventario y facturacion. Es la base de la que evoluciono ZAER Company.
 
-| Attribute | Detail |
+| Atributo | Detalle |
 | :--- | :--- |
-| **Stack** | Go · PostgreSQL · Kafka · gRPC · Docker · Terraform · GCP |
-| **Scale** | 2M+ daily transactions · 99.98% uptime |
-| **Performance** | 22ms median API latency · zero-downtime deploys |
-| **Security** | mTLS · RBAC · PCI-aligned payment isolation |
-| **Impact** | Eliminated double-charge incidents · 4× faster checkout |
-| **Repository** | [github.com/ricardo-rodriguezdesk/atlas](https://github.com/ricardo-rodriguezdesk/atlas) |
+| **Mi rol** | Desarrollador unico |
+| **Stack** | Java · JavaFX · Maven · SQL · Generacion de PDF |
+| **Modulos** | Pedidos · Produccion · Stock / Almacen · Ventas · Gerencia · Reportes |
+| **Caracteristicas** | Cotizador de remisiones · reportes PDF · graficas · gestion de empleados desde Excel |
+| **Estado** | Codigo privado por contener datos sensibles de la empresa — disponible para revision en entrevista |
 
-Implemented the saga orchestration and idempotency layer that made distributed payment flows reliable. Outbox pattern guarantees no lost events even under partial failure.
+Desarrolle desde cero el primer ERP de la empresa, sentando las bases funcionales del negocio: pedidos, produccion e inventario. La experiencia de este sistema guio el rediseno posterior en C#.
 
 </details>
 
 <details>
-<summary><b>🟣 Vision Pipeline — Real-Time Document Intelligence</b></summary>
+<summary><b>GasolinaIQ — Prediccion de Precios de Gasolina (Proyecto de equipo)</b></summary>
 
 <br/>
 
-An end-to-end document understanding system combining OCR, layout analysis, and an LLM extraction layer to turn unstructured PDFs into structured, queryable data.
+Plataforma de analisis, comparacion y prediccion de precios de gasolina en Mexico, construida sobre datos publicos de la CRE, BANXICO y EIA. Proyecto colaborativo de 5 integrantes para la materia de Big Data.
 
-| Attribute | Detail |
+| Atributo | Detalle |
 | :--- | :--- |
-| **Stack** | Python · OpenCV · Transformers · FastAPI · Postgres · pgvector |
-| **Scale** | 500k+ documents processed · 30+ document types |
-| **Performance** | 94% extraction accuracy · sub-second per-page latency |
-| **Security** | PII redaction · field-level encryption · audit logging |
-| **Impact** | Reduced manual review effort by 80% |
-| **Repository** | [github.com/ricardo-rodriguezdesk/vision-pipeline](https://github.com/ricardo-rodriguezdesk/vision-pipeline) |
+| **Mi rol** | ML Engineer + Backend |
+| **Stack** | Python · Prophet · scikit-learn · Node.js · Express · MongoDB · Docker · AWS S3 |
+| **Mi aporte** | Modelo predictivo de precios y API REST (8 endpoints) que sirve los datos al dashboard |
+| **Equipo** | 5 integrantes (PM/DevOps, Data Engineer, Data Scientist, ML/Backend, BI) |
+| **Repositorio** | [github.com/Victorml55/GasIQ](https://github.com/Victorml55/GasIQ) |
 
-Built the hybrid pipeline where deterministic layout parsing feeds a constrained LLM extractor, giving structured output with confidence scoring and human-in-the-loop fallback.
+Como ML Engineer y Backend desarrolle el modelo de prediccion de precios semanales y la API REST en Node.js/Express, integrando variables macroeconomicas (USD/MXN, WTI) para enriquecer las predicciones.
 
 </details>
 
 ---
 
 <!-- ============================================= -->
-<!-- 6. EXPERIENCE SECTION -->
+<!-- EXPERIENCIA -->
 <!-- ============================================= -->
 
-## Experience
+## Experiencia
 
-### Senior Software Engineer — **Company Name**
-`Jan 2023 – Present`
+### Desarrollador de Software — **NOMBRE DE LA EMPRESA**
+`Fecha inicio – Actualidad`
+<!-- EDITA: nombre real de la empresa y fechas -->
 
-Lead engineer on the core platform team, owning the architecture and reliability of services that power the company's primary product surface.
+Desarrollo y mantenimiento del sistema ERP interno usado en la operacion diaria de la empresa.
 
-- Architected and delivered a service mesh migration cutting cross-service latency by 35%.
-- Led an ML inference platform initiative from prototype to production, now serving millions of requests daily.
-- Mentored 5 engineers and established the team's code review, testing, and on-call standards.
+- Disene y construi el sistema ERP desde cero (v1.0 en Java, v2.0 en C#/.NET).
+- Implemente modulos de pedidos, produccion, inventario, logistica y reportes.
+- Mantengo el sistema en produccion atendiendo necesidades reales del negocio.
 
-`Distributed Systems` `Python` `Go` `Kubernetes` `AWS` `LLMs` `System Design`
-
-<br/>
-
-### Software Engineer — **Previous Company**
-`Jun 2021 – Dec 2022`
-
-Full stack engineer building customer-facing features and backend services in a fast-moving product environment.
-
-- Shipped a real-time analytics dashboard adopted by 80% of active accounts.
-- Reduced API error rates by 60% through observability and resilience improvements.
-- Drove the migration from a monolith to modular services without downtime.
-
-`TypeScript` `React` `Node.js` `PostgreSQL` `Docker` `CI/CD`
+`Java` `C#` `.NET` `WPF` `JavaFX` `SQL` `PDF`
 
 ---
 
 <!-- ============================================= -->
-<!-- 7. ACHIEVEMENTS SECTION -->
-<!-- ============================================= -->
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| 🏆 **Hackathon Winner** | 1st place — National AI Hackathon (300+ teams) |
-| ⭐ **Open Source** | 1k+ combined GitHub stars across maintained repositories |
-| 🎓 **Academic Honor** | Dean's List · Top 1% of graduating class |
-| 🚀 **Engineering Award** | Internal "Impact Engineer of the Year" recognition |
-| 📝 **Publication** | Co-authored paper on efficient LLM inference |
-
-</div>
-
----
-
-<!-- ============================================= -->
-<!-- 8. CERTIFICATIONS SECTION -->
-<!-- ============================================= -->
-
-## Certifications
-
-**Amazon Web Services**
-
-![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1e1b4b)
-![AWS ML](https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1e1b4b)
-
-**Oracle**
-
-![Oracle](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=1e1b4b)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Deep%20Learning%20(Elite)-6D28D9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1e1b4b)
-![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-6D28D9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=1e1b4b)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white&labelColor=1e1b4b)
-
----
-
-<!-- ============================================= -->
-<!-- 9. CODING PROFILES SECTION -->
-<!-- ============================================= -->
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/ricardo-rodriguezdesk">
-  <img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%201900%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0118" alt="leetcode" />
-</a>
-<a href="https://geeksforgeeks.org/user/ricardo-rodriguezdesk">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%201-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0a0118" alt="gfg" />
-</a>
-<br/><br/>
-<a href="https://hackerrank.com/ricardo-rodriguezdesk">
-  <img src="https://img.shields.io/badge/HackerRank-5%20Star%20Gold-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0118" alt="hackerrank" />
-</a>
-<a href="https://codechef.com/users/ricardo-rodriguezdesk">
-  <img src="https://img.shields.io/badge/CodeChef-4%20Star%20%7C%201800%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0a0118" alt="codechef" />
-</a>
-
-</div>
-
----
-
-<!-- ============================================= -->
-<!-- 10. GITHUB ANALYTICS SECTION -->
+<!-- ANALYTICS -->
 <!-- ============================================= -->
 
 ## GitHub Analytics
@@ -296,47 +180,23 @@ Full stack engineer building customer-facing features and backend services in a 
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-rodriguezdesk&layout=compact&hide_border=true&langs_count=10&bg_color=0a0118&title_color=A78BFA&text_color=c4b5fd" alt="top-langs" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-rodriguezdesk&layout=compact&hide_border=true&langs_count=8&bg_color=0a0118&title_color=A78BFA&text_color=c4b5fd" alt="top-langs" />
 
 </div>
 
 ---
 
 <!-- ============================================= -->
-<!-- 11. GITHUB TROPHIES SECTION -->
+<!-- ACTIVIDAD / SNAKE -->
 <!-- ============================================= -->
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ricardo-rodriguezdesk&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
-</div>
-
----
-
-<!-- ============================================= -->
-<!-- 12. CONTRIBUTION ACTIVITY SECTION -->
-<!-- ============================================= -->
-
-## Contribution Activity
+## Actividad
 
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ricardo-rodriguezdesk&bg_color=0a0118&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" alt="activity-graph" />
 
-</div>
-
----
-
-<!-- ============================================= -->
-<!-- 13. CONTRIBUTION SNAKE SECTION -->
-<!-- ============================================= -->
-
-## Contribution Snake
-
-<div align="center">
+<br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/ricardo-rodriguezdesk/ricardo-rodriguezdesk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
@@ -345,67 +205,51 @@ Full stack engineer building customer-facing features and backend services in a 
 ---
 
 <!-- ============================================= -->
-<!-- 14. CURRENT FOCUS SECTION -->
+<!-- FOCO ACTUAL -->
 <!-- ============================================= -->
 
-## Current Focus
+## En lo que estoy ahora
 
 ```yaml
-name: "Ricardo Rodriguez"
-role: "Senior Software Engineer · AI/ML Engineer"
+nombre: "Ricardo Rodriguez"
+rol: "Estudiante de Ing. en Sistemas - Desarrollador de Software"
 
-learning:
-  - "Distributed training & model parallelism"
-  - "Rust for systems-level performance"
+aprendiendo:
+  - "Machine Learning y ciencia de datos"
+  - "Buenas practicas de arquitectura de software"
 
-building:
-  - "Agentic LLM workflows with eval-driven development"
-  - "High-throughput inference infrastructure"
+construyendo:
+  - "Sistema ERP empresarial (en produccion)"
 
-exploring:
-  - "Vector databases & retrieval at scale"
-  - "WebAssembly for edge compute"
-
-open_to:
-  - "Senior / Staff Engineering roles"
-  - "AI/ML Engineering opportunities"
-  - "Impactful open source collaboration"
+abierto_a:
+  - "Practicas profesionales"
+  - "Oportunidades junior de desarrollo"
+  - "Colaboracion en proyectos"
 ```
 
 ---
 
 <!-- ============================================= -->
-<!-- 15. CONNECT SECTION -->
+<!-- CONTACTO -->
 <!-- ============================================= -->
 
-## Let's Connect
+## Contacto
 
 <div align="center">
 
 <a href="mailto:ricardorodriguez.builds@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0118" alt="gmail" />
 </a>
-<a href="https://linkedin.com/in/ricardo-rodriguezdesk">
+<a href="https://linkedin.com/in/TU_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0118" alt="linkedin" />
 </a>
 <a href="https://github.com/ricardo-rodriguezdesk">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0118" alt="github" />
 </a>
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0118" alt="portfolio" />
-</a>
 
 </div>
 
----
-
-<!-- ============================================= -->
-<!-- 16. FOOTER SECTION -->
-<!-- ============================================= -->
-
 <div align="center">
-
-> *"Great software is invisible — it just works, at scale, under pressure, for years."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,30:6d28d9,70:4c1d95,100:0a0118&height=120&section=footer" alt="footer" />
 
