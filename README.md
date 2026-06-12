@@ -21,8 +21,8 @@
 <br/><br/>
 
 <!-- Action Buttons -->
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-0a0118?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="portfolio" />
+<a href="https://your-portafolio.com">
+  <img src="https://img.shields.io/badge/Portafolio-0a0118?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="portafolio" />
 </a>
 <a href="https://linkedin.com/in/ricardo-rodriguezdesk">
   <img src="https://img.shields.io/badge/LinkedIn-0a0118?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="linkedin" />
